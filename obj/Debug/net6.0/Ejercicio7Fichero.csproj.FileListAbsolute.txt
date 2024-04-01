@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\bin\Debug\net6.0\Ejercicio7Fichero.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\bin\Debug\net6.0\Ejercicio7Fichero.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\bin\Debug\net6.0\Ejercicio7Fichero.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\bin\Debug\net6.0\Ejercicio7Fichero.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\bin\Debug\net6.0\Ejercicio7Fichero.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\Ejercicio7Fichero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\Ejercicio7Fichero.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\Ejercicio7Fichero.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\Ejercicio7Fichero.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\Ejercicio7Fichero.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\refint\Ejercicio7Fichero.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\Ejercicio7Fichero.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\Ejercicio7Fichero.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\EjerciciosFicheros\Ejercicio7Fichero\obj\Debug\net6.0\ref\Ejercicio7Fichero.dll
